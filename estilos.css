@@ -169,7 +169,7 @@ header{
 }
 
 footer{
-    height: 140px;
+    height: 160px;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -180,10 +180,11 @@ footer{
     color: rgb(0, 61, 168);
 }
 
-footer i{
+.rrss{
+    letter-spacing: 15px;
     font-size: 50px;
-    letter-spacing: 30px;
 }
+
 .subir{
     align-items: center;
     background-color: #897e00;
